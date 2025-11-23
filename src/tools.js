@@ -5,21 +5,30 @@ import fa_xmark from "@fortawesome/fontawesome-free/svgs/solid/xmark.svg";
 
 import showMessage from "./message.js";
 
+// ==================== 一言功能 ====================
 async function showHitokoto() {
     try {
         const response = await fetch("https://v1.hitokoto.cn");
         const result = await response.json();
-        showMessage(result.hitokoto, 6000, 9);
+        const hitokotoText = result.hitokoto;
+        const sourceText = `来自「${result.from}」，投稿者 ${result.creator}`;
+        
+        showMessage(hitokotoText, 6000, 9);
         setTimeout(() => {
-            showMessage(`来自「${result.from}」，投稿者 ${result.creator}`, 4000, 9);
+            showMessage(sourceText, 4000, 9);
         }, 6000);
-    } catch {
+    } catch (err) {
+        console.error("获取 hitokoto 出错：", err);
         showMessage("获取一言失败QAQ", 4000, 9);
     }
 }
 
+// ==================== 工具栏按钮 ====================
 const tools = {
-    "hitokoto": { icon: fa_comment, callback: showHitokoto },
+    "hitokoto": {
+        icon: fa_comment,
+        callback: showHitokoto
+    },
     "photo": {
         icon: fa_camera_retro,
         callback: () => {
