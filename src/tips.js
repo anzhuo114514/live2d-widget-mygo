@@ -221,7 +221,7 @@ const tips = {
           "motion": "cry01"
         },
         {
-          "text": "爽世世给我推荐的香薰，让人放松的效果太好了～",
+          "text": "soyorin给我推荐的香薰，让人放松的效果太好了～",
           "motion": "smile02"
         },
         {
@@ -245,7 +245,7 @@ const tips = {
           "motion": "smile01"
         },
         {
-          "text": "爽世世那么温柔，肯定会原谅我的！",
+          "text": "soyorin那么温柔，肯定会原谅我的！",
           "motion": "smile02"
         },
         {
@@ -253,15 +253,15 @@ const tips = {
           "motion": "angry01"
         },
         {
-          "text": "爽世世的家简直就是豪华酒店，毫无生活气息啊～",
+          "text": "soyorin的家简直就是豪华酒店，毫无生活气息啊～",
           "motion": "thinking03"
         },
         {
-          "text": "爽世世表里不一、满嘴谎言，还有好多坏心眼哦！",
+          "text": "soyorin表里不一、满嘴谎言，还有好多坏心眼哦！",
           "motion": "angry02"
         },
         {
-          "text": "我不会退出了，爽世世也不要退出哦～",
+          "text": "我不会退出了，soyorin也不要退出哦～",
           "motion": "smile03"
         },
         {
@@ -281,7 +281,7 @@ const tips = {
           "motion": "thinking02"
         },
         {
-          "text": "我的效果器被爽世世踩了……连我自己都没踩过呢……",
+          "text": "我的效果器被soyorin踩了……连我自己都没踩过呢……",
           "motion": "cry02"
         },
         {
@@ -301,11 +301,11 @@ const tips = {
           "motion": "thinking01"
         },
         {
-          "text": "只有爽世世和狸希了解过去的灯灯太不公平了！再多跟我讲讲灯灯的事情啦！",
+          "text": "只有soyorin和狸希了解过去的灯灯太不公平了！再多跟我讲讲灯灯的事情啦！",
           "motion": "angry03"
         },
         {
-          "text": "诶诶～爽世世不让我们到家里面去吗～",
+          "text": "诶诶～soyorin不让我们到家里面去吗～",
           "motion": "sad01"
         },
         {
@@ -321,7 +321,7 @@ const tips = {
           "motion": "thinking02"
         },
         {
-          "text": "呐呐，爽世世，在月之森，学生之间会互相邀请参加派对吗？",
+          "text": "呐呐，soyorin，在月之森，学生之间会互相邀请参加派对吗？",
           "motion": "thinking03"
         },
         {
@@ -357,11 +357,11 @@ const tips = {
           "motion": "thinking03"
         },
         {
-          "text": "呐呐，爽世世～关于这次的练习啊……我说，你那是什么表情啊",
+          "text": "呐呐，soyorin～关于这次的练习啊……我说，你那是什么表情啊",
           "motion": "angry04"
         },
         {
-          "text": "诶～不喜欢「爽世世」的话，那就叫Soyorinu怎么样？爽世之助？爽世·危？",
+          "text": "诶～不喜欢「soyorin」的话，那就叫Soyorinu怎么样？爽世之助？爽世·危？",
           "motion": "wink01"
         },
         {
@@ -449,7 +449,7 @@ const tips = {
           "motion": "thinking02"
         },
         {
-          "text": "爽世世今天不要老盯着我看～！今天的刘海怎么理都理不好！",
+          "text": "soyorin今天不要老盯着我看～！今天的刘海怎么理都理不好！",
           "motion": "angry01"
         },
         {
@@ -457,11 +457,11 @@ const tips = {
           "motion": "smile01"
         },
         {
-          "text": "呐呐，爽世世。不觉得我今天和平时不一样吗？昨天看了化妆教学视频……是哪里搞错了吗？",
+          "text": "呐呐，soyorin。不觉得我今天和平时不一样吗？昨天看了化妆教学视频……是哪里搞错了吗？",
           "motion": "wink01"
         },
         {
-          "text": "昨晚做了奇怪的梦，好像变成了CRYCHIC的吉他手……还被爽世世无视了！",
+          "text": "昨晚做了奇怪的梦，好像变成了CRYCHIC的吉他手……还被soyorin无视了！",
           "motion": "sad02"
         },
         {
@@ -761,7 +761,7 @@ const tips = {
           "motion": "angry03"
         },
         {
-          "text": "「爽世世」听起来有点讨厌呀～",
+          "text": "「soyorin」听起来有点讨厌呀～",
           "motion": "shame02"
         },
         {
@@ -829,7 +829,7 @@ const tips = {
           "motion": "thinking01"
         },
         {
-          "text": "「爽世世」这个外号，小爱音真的要一直叫下去吗？",
+          "text": "「soyorin」这个外号，小爱音真的要一直叫下去吗？",
           "motion": "shame01"
         },
         {
@@ -1528,7 +1528,7 @@ const tips = {
       "text": [
         [
           {
-            "text": "要了解这个网站吗？",
+            "text": "要看看 /{slug}.html 下的独立页面吗？",
             "motion": "thinking01"
           },
           {
@@ -1538,7 +1538,7 @@ const tips = {
         ],
         [
           {
-            "text": "要了解这个网站吗？",
+            "text": "要看看 /{slug}.html 下的独立页面吗？",
             "motion": "thinking01"
           },
           {
@@ -1548,7 +1548,7 @@ const tips = {
         ],
         [
           {
-            "text": "要了解这个网站吗？",
+            "text": "要看看 /{slug}.html 下的独立页面吗？",
             "motion": "thinking01"
           },
           {
@@ -1558,7 +1558,7 @@ const tips = {
         ],
         [
           {
-            "text": "要了解这个网站吗？",
+            "text": "要看看 /{slug}.html 下的独立页面吗？",
             "motion": "thinking01"
           },
           {
@@ -1568,7 +1568,7 @@ const tips = {
         ],
         [
           {
-            "text": "要了解这个网站吗？",
+            "text": "要看看 /{slug}.html 下的独立页面吗？",
             "motion": "thinking01"
           },
           {
@@ -1583,31 +1583,31 @@ const tips = {
       "text": [
         [
           {
-            "text": "要看看文章的标签吗？",
+            "text": "要看看 /{slug}.html 下的文章标签吗？",
             "motion": "thinking01"
           }
         ],
         [
           {
-            "text": "要看看文章的标签吗？",
+            "text": "要看看 /{slug}.html 下的文章标签吗？",
             "motion": "thinking01"
           }
         ],
         [
           {
-            "text": "要看看文章的标签吗？",
+            "text": "要看看 /{slug}.html 下的文章标签吗？",
             "motion": "thinking01"
           }
         ],
         [
           {
-            "text": "要看看文章的标签吗？",
+            "text": "要看看 /{slug}.html 下的文章标签吗？",
             "motion": "thinking01"
           }
         ],
         [
           {
-            "text": "要看看文章的标签吗？",
+            "text": "要看看 /{slug}.html 下的文章标签吗？",
             "motion": "thinking01"
           }
         ]
@@ -1618,31 +1618,31 @@ const tips = {
       "text": [
         [
           {
-            "text": "要看看文章的分类吗？",
+            "text": "要看看 /category/{slug}/ 下的文章分类吗？",
             "motion": "thinking01"
           }
         ],
         [
           {
-            "text": "要看看文章的分类吗？",
+            "text": "要看看 /category/{slug}/ 下的文章分类吗？",
             "motion": "thinking01"
           }
         ],
         [
           {
-            "text": "要看看文章的分类吗？",
+            "text": "要看看 /category/{slug}/ 下的文章分类吗？",
             "motion": "thinking01"
           }
         ],
         [
           {
-            "text": "要看看文章的分类吗？",
+            "text": "要看看 /category/{slug}/ 下的文章分类吗？",
             "motion": "thinking01"
           }
         ],
         [
           {
-            "text": "要看看文章的分类吗？",
+            "text": "要看看 /category/{slug}/ 下的文章分类吗？",
             "motion": "thinking01"
           }
         ]
@@ -1653,7 +1653,7 @@ const tips = {
       "text": [
         [
           {
-            "text": "要看看文章的归档吗？",
+            "text": "要看看 /{slug}.html 下的文章归档吗？",
             "motion": "thinking01"
           },
           {
@@ -1663,25 +1663,25 @@ const tips = {
         ],
         [
           {
-            "text": "要看看文章的归档吗？",
+            "text": "要看看 /{slug}.html 下的文章归档吗？",
             "motion": "thinking01"
           }
         ],
         [
           {
-            "text": "要看看文章的归档吗？",
+            "text": "要看看 /{slug}.html 下的文章归档吗？",
             "motion": "thinking01"
           }
         ],
         [
           {
-            "text": "要看看文章的归档吗？",
+            "text": "要看看 /{slug}.html 下的文章归档吗？",
             "motion": "thinking01"
           }
         ],
         [
           {
-            "text": "要看看文章的归档吗？",
+            "text": "要看看 /{slug}.html 下的文章归档吗？",
             "motion": "thinking01"
           }
         ]
@@ -1762,1016 +1762,32 @@ const tips = {
       "text": [
         [
           {
-            "text": "要看看这里都有什么吗？",
+            "text": "要看看 /{slug}.html 下的内容吗？",
             "motion": "thinking01"
           }
         ],
         [
           {
-            "text": "要看看这里都有什么吗？",
+            "text": "要看看 /{slug}.html 下的内容吗？",
             "motion": "thinking01"
           }
         ],
         [
           {
-            "text": "要看看这里都有什么吗？",
+            "text": "要看看 /{slug}.html 下的内容吗？",
             "motion": "thinking01"
           }
         ],
         [
           {
-            "text": "要看看这里都有什么吗？",
+            "text": "要看看 /{slug}.html 下的内容吗？",
             "motion": "thinking01"
           }
         ],
         [
           {
-            "text": "要看看这里都有什么吗？",
+            "text": "要看看 /{slug}.html 下的内容吗？",
             "motion": "thinking01"
-          }
-        ]
-      ]
-    },
-    {
-      "selector": ".site-author",
-      "text": [
-        [
-          {
-            "text": "这个人……感觉是个好人。",
-            "motion": "smile01"
-          }
-        ],
-        [
-          {
-            "text": "这是我们MyGO!!!!!的粉丝哦！你要不要也关注一下？",
-            "motion": "smile02"
-          }
-        ],
-        [
-          {
-            "text": "有趣的人。",
-            "motion": "smile03"
-          }
-        ],
-        [
-          {
-            "text": "是很温柔的人呢。",
-            "motion": "smile04"
-          }
-        ],
-        [
-          {
-            "text": "不像是坏人。",
-            "motion": "serious01"
-          }
-        ]
-      ]
-    },
-    {
-      "selector": ".site-state",
-      "text": [
-        [
-          {
-            "text": "要看看统计信息吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要看看统计信息吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要看看统计信息吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要看看统计信息吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要看看统计信息吗？",
-            "motion": "thinking01"
-          }
-        ]
-      ]
-    },
-    {
-      "selector": ".feed-link a",
-      "text": [
-        [
-          {
-            "text": "要使用RSS订阅吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要使用RSS订阅吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要使用RSS订阅吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要使用RSS订阅吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要使用RSS订阅吗？",
-            "motion": "thinking01"
-          }
-        ]
-      ]
-    },
-    {
-      "selector": ".cc-opacity, .post-copyright-author",
-      "text": [
-        [
-          {
-            "text": "所有文章均采用CC BY-SA 4.0许可协议，要注意版权呢……",
-            "motion": "serious01"
-          },
-          {
-            "text": "我要不要把我的诗也采用CC BY-SA 4.0许可协议发布呢……",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "所有文章均采用CC BY-SA 4.0许可协议，要注意版权哦！",
-            "motion": "serious02"
-          }
-        ],
-        [
-          {
-            "text": "「所有文章均采用CC BY-SA 4.0许可协议」……？看不太懂。",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "所有文章均采用CC BY-SA 4.0许可协议，要注意版权呢。",
-            "motion": "serious01"
-          }
-        ],
-        [
-          {
-            "text": "所有文章均采用CC BY-SA 4.0许可协议，不要剽窃他人的创作哦。",
-            "motion": "serious02"
-          }
-        ]
-      ]
-    },
-    {
-      "selector": ".links-of-author",
-      "text": [
-        [
-          {
-            "text": "我知道的，这是网页链接。",
-            "motion": "smile01"
-          }
-        ],
-        [
-          {
-            "text": "咦？有一个奇怪的链接。好想点击一下啊。",
-            "motion": "surprised01"
-          }
-        ],
-        [
-          {
-            "text": "有趣的链接。",
-            "motion": "smile02"
-          }
-        ],
-        [
-          {
-            "text": "只是打开看看的话应该没问题吧……",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "灯，看到陌生的链接不要乱点哦。",
-            "motion": "serious01"
-          }
-        ]
-      ]
-    },
-    {
-      "selector": ".followme",
-      "text": [
-        [
-          {
-            "text": "要用手机扫码吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要用手机扫码吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "手机？不太会用……",
-            "motion": "sad01"
-          }
-        ],
-        [
-          {
-            "text": "要用手机扫码吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要用手机扫码吗？",
-            "motion": "thinking01"
-          }
-        ]
-      ]
-    },
-    {
-      "selector": ".fancybox img, img.medium-zoom-image",
-      "text": [
-        [
-          {
-            "text": "要放大图片吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要放大图片吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要放大图片吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要放大图片吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要放大图片吗？",
-            "motion": "thinking01"
-          }
-        ]
-      ]
-    },
-    {
-      "selector": ".copy-btn",
-      "text": [
-        [
-          {
-            "text": "要复制代码吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要复制代码吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要复制代码吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要复制代码吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要复制代码吗？",
-            "motion": "thinking01"
-          }
-        ]
-      ]
-    },
-    {
-      "selector": ".highlight .table-container, .gist",
-      "text": [
-        [
-          {
-            "text": "GitHub？感觉很酷的样子……",
-            "motion": "smile01"
-          }
-        ],
-        [
-          {
-            "text": "呐呐，爽世世，GitHub据说是全球最大的交友网站哦！",
-            "motion": "smile02"
-          }
-        ],
-        [
-          {
-            "text": "GitHub？是什么？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "GitHub上面托管了许多有趣的项目呢。",
-            "motion": "smile03"
-          }
-        ],
-        [
-          {
-            "text": "GitHub啊。我偶尔会用托管在上面的项目。",
-            "motion": "serious01"
-          }
-        ]
-      ]
-    },
-    {
-      "selector": "a[href^='mailto']",
-      "text": [
-        [
-          {
-            "text": "我的邮件也是我内心的呐喊呢。",
-            "motion": "kandou01"
-          }
-        ],
-        [
-          {
-            "text": "灯灯的邮件总是包含充沛的情感，真厉害！",
-            "motion": "smile01"
-          }
-        ],
-        [
-          {
-            "text": "写邮件……真麻烦……",
-            "motion": "sigh01"
-          }
-        ],
-        [
-          {
-            "text": "感觉邮件很正式呢。",
-            "motion": "serious01"
-          }
-        ],
-        [
-          {
-            "text": "邮件我会及时回复的！",
-            "motion": "smile02"
-          }
-        ]
-      ]
-    },
-    {
-      "selector": "a[href^='/tags/']",
-      "text": [
-        [
-          {
-            "text": "要看看<span>{text}</span>标签吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要看看<span>{text}</span>标签吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要看看<span>{text}</span>标签吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要看看<span>{text}</span>标签吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要看看<span>{text}</span>标签吗？",
-            "motion": "thinking01"
-          }
-        ]
-      ]
-    },
-    {
-      "selector": "a[href^='/categories/']",
-      "text": [
-        [
-          {
-            "text": "要看看<span>{text}</span>分类吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要看看<span>{text}</span>分类吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要看看<span>{text}</span>分类吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要看看<span>{text}</span>分类吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要看看<span>{text}</span>分类吗？",
-            "motion": "thinking01"
-          }
-        ]
-      ]
-    },
-    {
-      "selector": ".post-title-link",
-      "text": [
-        [
-          {
-            "text": "要看看<span>{text}</span>这篇文章吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要看看<span>{text}</span>这篇文章吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要看看<span>{text}</span>这篇文章吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要看看<span>{text}</span>这篇文章吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要看看<span>{text}</span>这篇文章吗？",
-            "motion": "thinking01"
-          }
-        ]
-      ]
-    },
-    {
-      "selector": "a[rel='contents']",
-      "text": [
-        [
-          {
-            "text": "要阅读全文吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要阅读全文吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要阅读全文吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要阅读全文吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要阅读全文吗？",
-            "motion": "thinking01"
-          }
-        ]
-      ]
-    },
-    {
-      "selector": "a[itemprop='discussionUrl']",
-      "text": [
-        [
-          {
-            "text": "要看看评论吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要看看评论吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要看看评论吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要看看评论吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要看看评论吗？",
-            "motion": "thinking01"
-          }
-        ]
-      ]
-    },
-    {
-      "selector": ".beian a",
-      "text": [
-        [
-          {
-            "text": "要看看备案吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要看看备案吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要看看备案吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要看看备案吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要看看备案吗？",
-            "motion": "thinking01"
-          }
-        ]
-      ]
-    },
-    {
-      "selector": ".container a[href^='http'], .nav-link .nav-text",
-      "text": [
-        [
-          {
-            "text": "要看看<span>{text}</span>吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要看看<span>{text}</span>吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要看看<span>{text}</span>吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要看看<span>{text}</span>吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要看看<span>{text}</span>吗？",
-            "motion": "thinking01"
-          }
-        ]
-      ]
-    },
-    {
-      "selector": ".back-to-top",
-      "text": [
-        [
-          {
-            "text": "要回到顶部吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要回到顶部吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要回到顶部吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要回到顶部吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要回到顶部吗？",
-            "motion": "thinking01"
-          }
-        ]
-      ]
-    },
-    {
-      "selector": ".reward-container",
-      "text": [
-        [
-          {
-            "text": "每次Live之后，都能收到很多点赞呢……",
-            "motion": "smile01"
-          }
-        ],
-        [
-          {
-            "text": "最近发在MyGO!!!!!的账号上的动态，总是有许多点赞呢。",
-            "motion": "smile02"
-          }
-        ],
-        [
-          {
-            "text": "赞，点一下。",
-            "motion": "smile03"
-          }
-        ],
-        [
-          {
-            "text": "最近MyGO!!!!!的账号运营得真好啊……有许多点赞呢。",
-            "motion": "smile04"
-          }
-        ],
-        [
-          {
-            "text": "你这家伙，竟敢不给灯点赞！",
-            "motion": "angry01"
-          }
-        ]
-      ]
-    },
-    {
-      "selector": "#wechat",
-      "text": [
-        [
-          {
-            "text": "要看看微信吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要看看微信吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要看看微信吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要看看微信吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要看看微信吗？",
-            "motion": "thinking01"
-          }
-        ]
-      ]
-    },
-    {
-      "selector": "#alipay",
-      "text": [
-        [
-          {
-            "text": "要看看支付宝吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要看看支付宝吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要看看支付宝吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要看看支付宝吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要看看支付宝吗？",
-            "motion": "thinking01"
-          }
-        ]
-      ]
-    },
-    {
-      "selector": "#bitcoin",
-      "text": [
-        [
-          {
-            "text": "比特币？是一种硬币吗？好想收集一些……",
-            "motion": "smile01"
-          }
-        ],
-        [
-          {
-            "text": "当年要是多买一些比特币就好了啊……",
-            "motion": "sad01"
-          }
-        ],
-        [
-          {
-            "text": "比特币是什么？可以买抹茶芭菲吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "妈妈有不少比特币呢。",
-            "motion": "smile02"
-          }
-        ],
-        [
-          {
-            "text": "感觉管理比特币会很麻烦呢。",
-            "motion": "sigh01"
-          }
-        ]
-      ]
-    },
-    {
-      "selector": "#needsharebutton-postbottom .btn",
-      "text": [
-        [
-          {
-            "text": "想要把我内心的呐喊，传达给大家！",
-            "motion": "kandou01"
-          }
-        ],
-        [
-          {
-            "text": "好东西要让更多人知道才行哦。",
-            "motion": "smile01"
-          }
-        ],
-        [
-          {
-            "text": "外婆说，要多分享。",
-            "motion": "serious01"
-          }
-        ],
-        [
-          {
-            "text": "小爱音总是喜欢在群里分享各种各样的信息呢。",
-            "motion": "smile02"
-          }
-        ],
-        [
-          {
-            "text": "分享，是对作者的鼓励吧，大概。",
-            "motion": "thinking01"
-          }
-        ]
-      ]
-    },
-    {
-      "selector": ".need-share-button_weibo",
-      "text": [
-        [
-          {
-            "text": "要分享到微博吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要分享到微博吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要分享到微博吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要分享到微博吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要分享到微博吗？",
-            "motion": "thinking01"
-          }
-        ]
-      ]
-    },
-    {
-      "selector": ".need-share-button_wechat",
-      "text": [
-        [
-          {
-            "text": "要分享到微信吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要分享到微信吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要分享到微信吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要分享到微信吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要分享到微信吗？",
-            "motion": "thinking01"
-          }
-        ]
-      ]
-    },
-    {
-      "selector": ".need-share-button_douban",
-      "text": [
-        [
-          {
-            "text": "要分享到豆瓣吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要分享到豆瓣吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要分享到豆瓣吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要分享到豆瓣吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要分享到豆瓣吗？",
-            "motion": "thinking01"
-          }
-        ]
-      ]
-    },
-    {
-      "selector": ".need-share-button_qqzone",
-      "text": [
-        [
-          {
-            "text": "要分享到QQ空间吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要分享到QQ空间吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要分享到QQ空间吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要分享到QQ空间吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "要分享到QQ空间吗？",
-            "motion": "thinking01"
-          }
-        ]
-      ]
-    },
-    {
-      "selector": ".need-share-button_twitter",
-      "text": [
-        [
-          {
-            "text": "X上面好像有很多人在画关于我们的画。",
-            "motion": "smile01"
-          }
-        ],
-        [
-          {
-            "text": "诶？Ave Mujica上X热榜了！MyGO!!!!!什么时候也能这样呢？",
-            "motion": "surprised01"
-          }
-        ],
-        [
-          {
-            "text": "X？可以开Live吗？",
-            "motion": "thinking01"
-          }
-        ],
-        [
-          {
-            "text": "其实我在X上有很多账号呢。",
-            "motion": "smile02"
-          }
-        ],
-        [
-          {
-            "text": "灯！看X的时候一定要注意，不要看不好的东西。",
-            "motion": "serious01"
           }
         ]
       ]
@@ -2974,7 +1990,7 @@ const tips = {
         ],
         [
           {
-            "text": "跟小爱音说了很多次，她还是叫我「爽世世」呢……真是麻烦的孩子。",
+            "text": "跟小爱音说了很多次，她还是叫我「soyorin」呢……真是麻烦的孩子。",
             "motion": "sigh01"
           }
         ],
@@ -3538,13 +2554,13 @@ const tips = {
       "text": [
         [
           {
-            "text": "生日快乐。能够和小爽世组乐队，我真的很开心。",
+            "text": "生日快乐。能够和小soyorin组乐队，我真的很开心。",
             "motion": "smile01"
           }
         ],
         [
           {
-            "text": "爽世世，生日快乐！送给你现在最受欢迎的香薰蜡烛！",
+            "text": "soyorin，生日快乐！送给你现在最受欢迎的香薰蜡烛！",
             "motion": "smile02"
           }
         ],
@@ -3591,7 +2607,7 @@ const tips = {
         ],
         [
           {
-            "text": "生日快乐，小立希。你收到小灯的祝福了吗？",
+            "text": "小立希，生日快乐。你收到小灯的祝福了吗？",
             "motion": "smile04"
           }
         ],
@@ -3687,8 +2703,8 @@ const tips = {
             "motion": "serious01"
           },
           {
-            "text": "我第一次在认识的人里见到会在万圣节变装的……",
-            "motion": "smile04"
+            "text": "给认识的人送万圣节礼物什么的……爱音那家伙又要来了吗……",
+            "motion": "angry01"
           }
         ]
       ]
@@ -3738,11 +2754,11 @@ const tips = {
         ],
         [
           {
-            "text": "灯，生日快乐。从今往后……我也会一直在你身边的。",
+            "text": "给灯，生日快乐。从今往后……我也会一直在你身边的。",
             "motion": "smile02"
           },
           {
-            "text": "今年也能给你过生日真是太好了。生日快乐，灯。",
+            "text": "给灯，今年也能给你过生日真是太好了。生日快乐。",
             "motion": "smile03"
           }
         ]
@@ -3767,7 +2783,7 @@ const tips = {
             "motion": "smile03"
           },
           {
-            "text": "爽世世家的圣诞树，是海外的吗！这也太大了吧！",
+            "text": "soyorin家的圣诞树，是海外的吗！这也太大了吧！",
             "motion": "surprised01"
           }
         ],
@@ -3787,7 +2803,7 @@ const tips = {
             "motion": "thinking01"
           },
           {
-            "text": "要开圣诞派对我没意见，但是为什么非要在我家开？",
+            "text": "开圣诞派对我没意见，但是为什么非要在我家开？",
             "motion": "angry01"
           }
         ],
@@ -3857,7 +2873,7 @@ const tips = {
         ],
         [
           {
-            "text": "从爽世世家里能不能看到樱花呢～我还想和大家一起拍照片！",
+            "text": "从soyorin家里能不能看到樱花呢～我还想和大家一起拍照片！",
             "motion": "smile03"
           },
           {
@@ -4176,7 +3192,7 @@ const tips = {
         ],
         [
           {
-            "text": "咖啡店的推荐菜单？现在的话推荐热姜茶，还有咖啡。",
+            "text": "给咖啡店的推荐菜单？现在的话推荐热姜茶，还有咖啡。",
             "motion": "smile03"
           },
           {
@@ -4223,7 +3239,7 @@ const tips = {
             "motion": "smile02"
           },
           {
-            "text": "早上好！爽世世家的床好大好软啊，好舒服～",
+            "text": "早上好！soyorin家的床好大好软啊，好舒服～",
             "motion": "smile03"
           },
           {
@@ -4522,7 +3538,7 @@ const tips = {
             "motion": "smile04"
           },
           {
-            "text": "晚上好！今天爽世世的妈妈应该也不会回来，要不要去陪陪她呢？",
+            "text": "晚上好！今天soyorin的妈妈应该也不会回来，要不要去陪陪她呢？",
             "motion": "smile04"
           }
         ],
@@ -4538,15 +3554,15 @@ const tips = {
         ],
         [
           {
-            "text": "晚上好。小爱音那家伙，最终还是跟着我到家里了啊。",
+            "text": "已经这么晚了吗？我是不熬夜主义者，还是赶紧睡觉吧。",
+            "motion": "serious01"
+          },
+          {
+            "text": "小爱音那家伙，最终还是跟着我到家里了啊。",
             "motion": "sigh01"
           },
           {
-            "text": "晚上好。小爱音又缠着我了，真是麻烦的孩子。",
-            "motion": "sigh01"
-          },
-          {
-            "text": "晚上好。小爱音今天直接回自己家了……可是，我没说不让她来……",
+            "text": "小爱音今天直接回自己家了……可是，我没说不让她来……",
             "motion": "sad01"
           }
         ],
