@@ -2147,7 +2147,7 @@ const tips = {
       ]
     },
     {
-      "selector": "a[href^='/tags/']",
+      "selector": "a[href^='/tag/']",
       "text": [
         [
           {
@@ -2182,7 +2182,7 @@ const tips = {
       ]
     },
     {
-      "selector": "a[href^='/categories/']",
+      "selector": "a[href^='/category/']",
       "text": [
         [
           {
