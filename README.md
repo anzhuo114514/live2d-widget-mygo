@@ -6,9 +6,8 @@
 
 该仓库中所有Live2D相关资源均来自于网络，**仅供学习交流，请勿用于商业用途，如有侵权，请联系删除**。
 
-[**点击查看示例网页**](https://live2d-widget-mygo.vercel.app/)。示例网页中模型位于左下角。
+[**点击查看示例网页**](https://live2dmygo.anzhu0.cn/h。示例网页中模型位于左下角。
 
-备用链接：[**点击查看示例网页**](https://live2d-widget-mygo.panxuc.com/)
 
 ## 介绍
 
