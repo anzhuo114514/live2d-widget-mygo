@@ -2,6 +2,8 @@
 
 个人自用的Live2D Widget，用于在任意网页上引入MyGO!!!!!的Live2D模型。
 
+**该仓库是fork，已做部分更改。**
+
 该仓库中所有Live2D相关资源均来自于网络，**仅供学习交流，请勿用于商业用途，如有侵权，请联系删除**。
 
 [**点击查看示例网页**](https://live2d-widget-mygo.vercel.app/)。示例网页中模型位于左下角。
@@ -34,23 +36,15 @@
 只需在html页面的`head`或`body`中添加一行代码即可：
 
 ```html
-<script src="https://live2d-widget-mygo.vercel.app/autoload.js"></script>
+<script src="https://live2dmygo.anzhu0.cn/autoload.js"></script>
 ```
-
-如果你在使用过程中遇到问题，可以尝试使用
-```html
-<script src="https://live2d-widget-mygo.panxuc.com/autoload.js"></script>
-```
-来替换上面的链接。该链接是本项目的备用链接，可能会更稳定。
-
-即使你fork了本项目，也请填写你的js文件的绝对路径而非相对路径，以避免出现各种奇怪的问题。
 
 ### 自定义配置
 
 默认情况下，只在浏览器宽度大于768px时显示模型，以防止模型对手机端网页阅读造成不便；模型默认显示在左下角。你也可以通过URL传递参数修改这个配置：
 
 ```html
-<script src="https://live2d-widget-mygo.vercel.app/autoload.js?width_limit=0&position=right&preload=ALL"></script>
+<script src="https://live2dmygo.anzhu0.cn/autoload.js?width_limit=0&position=right&preload=ALL"></script>
 ```
 
 - `width_limit`：宽度限制，单位为像素，当浏览器宽度大于此值时显示模型，默认为768。
