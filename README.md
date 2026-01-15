@@ -2,7 +2,7 @@
 
 个人自用的Live2D Widget，用于在任意网页上引入MyGO!!!!!的Live2D模型。
 
-**该仓库是fork，已做部分更改。**
+**该仓库是fork，已修改原项目中对hexo的优化与角色对话。**
 
 该仓库中所有Live2D相关资源均来自于网络，**仅供学习交流，请勿用于商业用途，如有侵权，请联系删除**。
 
@@ -34,16 +34,26 @@
 
 只需在html页面的`head`或`body`中添加一行代码即可：
 
+腾讯CDN：
 ```html
 <script src="https://live2dmygo.anzhu0.cn/autoload.js"></script>
+```
+阿里CDN：
+```html
+<script src="https://test.anzhu0.cn/autoload.js"></script>
 ```
 
 ### 自定义配置
 
 默认情况下，只在浏览器宽度大于768px时显示模型，以防止模型对手机端网页阅读造成不便；模型默认显示在左下角。你也可以通过URL传递参数修改这个配置：
 
+腾讯CDN
 ```html
 <script src="https://live2dmygo.anzhu0.cn/autoload.js?width_limit=0&position=right&preload=ALL"></script>
+```
+阿里云CDN
+```html
+<script src="https://test.anzhu0.cn/autoload.js?width_limit=0&position=right&preload=ALL"></script>
 ```
 
 - `width_limit`：宽度限制，单位为像素，当浏览器宽度大于此值时显示模型，默认为768。
